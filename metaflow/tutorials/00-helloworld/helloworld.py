@@ -39,4 +39,5 @@ class HelloFlow(FlowSpec):
 
 
 if __name__ == "__main__":
+    print("MASSIVE HELLO")
     HelloFlow()
